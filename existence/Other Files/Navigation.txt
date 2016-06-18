@@ -1,0 +1,17 @@
+CLASSES:
+--------
+
+cl_converters:
+	Seperates the various aspects of the input command
+
+cl_main: 
+	Takes in the main command
+
+cl_object:
+	Properties of every object in the world
+	
+p_cl_object:
+	Initializes every object and manipulates them from world
+
+cl_player:
+	Properties of player in the world
